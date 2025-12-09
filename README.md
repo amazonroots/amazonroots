@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud-orange" />
-  <img src="https://img.shields.io/badge/Python-3.11-blue" />
+  <img src="https://img.shields.io/badge/Python-blue" />
   <img src="https://img.shields.io/badge/FastAPI-Backend-success" />
   <img src="https://img.shields.io/badge/Docker-Containers-2496ED" />
   <img src="https://img.shields.io/badge/PostgreSQL-Database-316192" />
