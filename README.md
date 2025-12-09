@@ -58,4 +58,4 @@ Valorizo código funcional, documentação clara e projetos que **falam por si**
 
 ### 📫 Contato
 📧 **rafael.amazontech@gmail.com**  
-🔗 LinkedIn *(inserir quando criar)*  
+ 
