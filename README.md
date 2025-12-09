@@ -1,58 +1,57 @@
+<br>
 
 <h1 align="center">☁️ Rafael Rodrigues</h1>
 <h3 align="center">Cloud • Backend • DevOps • AWS</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange" />
-  <img src="https://img.shields.io/badge/Python-blue" />
-  <img src="https://img.shields.io/badge/FastAPI-Backend-success" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-316192" />
-  <img src="https://img.shields.io/badge/DevOps-Engineering-purple" />
-  <img src="https://img.shields.io/badge/CI/CD-Automation-yellow" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-31648C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DevOps-Processes-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Pipeline-9b59b6?style=for-the-badge"/>
 </p>
 
 ---
 
 ### 👤 Sobre mim
-Sou **Rafael Rodrigues**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e em transição para atuar como **Cloud Engineer / Backend / DevOps**.  
-Aprendo fazendo: **colocando projeto em produção**, errando, arrumando e evoluindo — nada de teoria solta.
+Sou **Rafael Rodrigues**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, construindo base sólida para atuar como **Cloud | Backend | DevOps**.  
+Aprendo **fazendo**, colocando aplicação real no ar, documentando cada erro e evolução.
 
-Hoje desenvolvo o **AmazonTech DevLab**, meu laboratório focado em AWS + Backend + Containers, com **API real rodando na EC2 24/7**, documentação própria e evolução contínua.
+Atualmente desenvolvo o **AmazonTech DevLab**, um laboratório onde pratico cloud com **FastAPI + Docker + PostgreSQL em AWS EC2**, com deploy real e API disponível publicamente.
 
 ---
 
 ### 🚀 O que estudo e aplico
-- Cloud Computing com **AWS**
-- Backend com **FastAPI**
-- **Docker & Containers**
-- Deploy real em **Linux EC2**
-- Segurança, logs e auditoria
-- Bancos **PostgreSQL persistente**
-- **CI/CD** em implementação (GitHub Actions)
-- Infra como código (futuro Terraform)
+- Cloud Computing (AWS)
+- Backend com FastAPI
+- Docker e containers
+- Banco PostgreSQL com persistência
+- Deploy real com EC2 Linux
+- Logs, segurança e auditoria
+- CI/CD (em construção com GitHub Actions)
 
 ---
 
 ### 🔥 Em andamento
 - Portfólio Cloud/DevOps real
-- DevLab rodando em produção (online)
-- Próximos passos:
-  - CI/CD com GitHub Actions
+- DevLab em produção (API online)
+- Próximas etapas:
+  - CI/CD
   - HTTPS + domínio
+  - RDS
   - Monitoramento (Grafana/Loki)
-  - Migração futura para RDS + escalabilidade
 
 ---
 
 ### 🎯 Objetivo
-Me tornar **Cloud/DevOps Engineer**, com domínio prático de infraestrutura, deploy e automação.  
-Valorizo código funcional, documentação clara e projetos que **falam por si**.
+Tornar-me **Cloud/DevOps Engineer**, com domínio de infraestrutura, deploy e automação.  
+Documentação clara, código funcional e evolução contínua fazem parte da jornada.
 
-> *"Cloud não se aprende lendo — se aprende deployando."*
+> _"Cloud não se aprende lendo — se aprende deployando."_
 
 ---
 
 ### 📫 Contato
-📧 **rafael.amazontech@gmail.com**  
- 
+📩 **rafael.amazontech@gmail.com**
