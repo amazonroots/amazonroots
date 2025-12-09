@@ -1,52 +1,53 @@
 <!-- Banner -->
 <p align="center">
-  <img src="LINK_DO_BANNER" width="100%" />
+  <img src="4374f1f97a6eb279884c1788a746de507d5119313ee3f4b5cf260c6191be41ac.png" width="100%" />
 </p>
 
 <h1 align="center">🚀 Welcome to My DevOps & Cloud Space</h1>
 
 <p align="center">
-  <b> CLOUD | DEVOPS | BACKEND | AUTOMATION | DOCKER | FASTAPI | AWS </b>
+  <b>CLOUD | DEVOPS | BACKEND | AWS | DOCKER | FASTAPI | AUTOMATION</b>
 </p>
 
 ---
 
 ## 👋 Hey there!
-Sou **Rafael Rodrigues**, aspirante a **Cloud/DevOps Engineer** construindo experiência **na prática**, deployando infra real com Docker, PostgreSQL, Nginx e FastAPI em produção.
+Sou **Rafael Rodrigues**, futuro **Cloud/DevOps Engineer** construindo experiência real em deploy, pipelines, automação, containers e backend.
 
-Atualmente desenvolvo o **AmazonTech DevLab** — meu laboratório vivo rodando em **AWS EC2 24/7**, onde testo infra, automação, auditoria, CI/CD e segurança aplicada.
+Mantenho o **AmazonTech DevLab** — laboratório próprio com backend **FastAPI + Docker + PostgreSQL + Nginx**, rodando **em AWS EC2 24/7** para estudo prático.
 
-📌 *Aprendo errando, depurando e corrigindo. Vida real, não só tutorial.*  
-💡 *Meu foco é prática, automação e arquitetura para escala futura.*
+📌 *Não só estudo, construo.*  
+💡 *Infra, deploy, erro, troubleshooting e logs fazem parte do jogo.*
 
 ---
 
 ## 💫 About Me
-📍 Belém – Pará 🇧🇷  
-📚 ADS (Análise e Desenvolvimento de Sistemas)  
-🎯 Objetivo: **Cloud | DevOps | Backend**  
-⚙ Curto logs, troubleshooting, deploy quebrado e problema pra resolver 😄
+📍 Belém - Pará 🇧🇷  
+🎓 ADS — Análise e Desenvolvimento de Sistemas  
+🎯 Cloud | DevOps | Automação | Backend  
+⚙ Apaixonado por infraestrutura real, observabilidade e CI/CD
 
 ---
 
 ## 🔥 What I Do
 
-### 🌩 Cloud & DevOps
-- Deploy em **AWS EC2**
-- **Docker + Docker Compose**
-- **PostgreSQL persistente**
-- **Nginx Reverse Proxy**
-- Roadmap → CI/CD | RDS | Observability | K8s no futuro
+### ☁ Cloud & DevOps
+- AWS EC2 Deploy
+- Docker + Docker Compose
+- Nginx Reverse Proxy
+- PostgreSQL Persistente
+- Roadmap → CI/CD, RDS, Observability, K8s
 
 ### 🧩 Backend Development
-- **FastAPI**
-- JWT Auth + CRUD Notes
-- Swagger Docs estruturado
+- FastAPI
+- JWT Auth
+- CRUD Notes
+- Swagger Docs organizados
 
 ### 🔐 Infra & Segurança
-- SG, portas e permissões
-- Auditoria básica
-- API com autenticação e logs
+- SG, portas, permissões
+- Logs e auditoria básica
+- API com autenticação
 
 ---
 
@@ -72,13 +73,13 @@ Atualmente desenvolvo o **AmazonTech DevLab** — meu laboratório vivo rodando 
 
 ---
 
-## 🧩 Quick Links
+## 🔗 Quick Links
 
-| Acesso | Link |
+| Link | Acesso |
 |---|---|
 | 🔥 AmazonTech DevLab | https://github.com/amazonroots/amazontech-devlab |
-| 🌍 Portfolio | *em criação* |
-| 📄 Resume/CV | *em breve* |
+| 🌍 Portfolio | *Em construção* |
+| 📄 Resume/CV | *Em breve* |
 | 🧪 Repositórios | https://github.com/amazonroots?tab=repositories |
 
 ---
@@ -88,15 +89,14 @@ Atualmente desenvolvo o **AmazonTech DevLab** — meu laboratório vivo rodando 
 | Projeto | Descrição | Status |
 |---|---|---|
 | **AmazonTech DevLab** | FastAPI + Docker + PostgreSQL + Deploy AWS | 🟢 Online |
-| **Sentinel-21** | Firewall cognitivo para LLM | 🧪 Research |
-| **Website Amazon Roots** | Website institucional | 📝 Rascunho |
+| **Sentinel-21** | Firewall cognitivo para LLM | 🧪 Early-Stage |
+| **Amazon Roots Website** | Website institucional | 📝 Rascunho |
 
 ---
 
 ## 📫 Contact Me
-📩 **rafael.amazontech@gmail.com**  
-💬 DM para colaboração e networking
+📩 **rafael.amazontech@gmail.com**
 
 ---
 
-<p align="center"><i>“Cloud se aprende deployando — infra viva vale mais que 100 aulas.”</i></p>
+<p align="center"><i>“Cloud se aprende deployando — Infra viva vale mais que 100 aulas.”</i></p>
