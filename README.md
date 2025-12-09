@@ -1,69 +1,90 @@
 <!-- Banner -->
 <p align="center">
-  <img src="BANNER_URL_AQUI" width="900"/>
+  <img src="BANNER_AQUI" width="900"/>
 </p>
 
-<h1 align="center">🚀 Welcome to my Cloud & DevOps Hub</h1>
+<h1 align="center">🚀 Welcome to the Home of Cloud & DevOps Resources</h1>
 <p align="center">
-  <b>Cloud & DevOps | Backend | AWS | Docker | FastAPI | CI/CD</b>
+  <b>Cloud & DevOps • Backend • AWS • Docker • FastAPI • Linux • CI/CD</b>
 </p>
 
 ---
 
 ### Hey there! 👋  
-Sou **Rafael Rodrigues**, desenvolvedor **Cloud & DevOps/Backend**, estudante de ADS e criador do **AmazonTech DevLab**, meu laboratório onde desenvolvo projetos reais com deploy em produção na AWS.
+Sou **Rafael Rodrigues**, Cloud & DevOps/Backend Developer.  
+Crio ambientes de deploy real, infra automatizada e APIs backend.  
+Mantenho o **AmazonTech DevLab**, meu laboratório para projetos práticos na AWS.
 
-Gosto de aprender fazendo, quebrar a cabeça, monitorar logs e transformar infraestrutura em algo limpo, automatizado e seguro.
-
-> **Cloud se aprende deployando.  
-Infra viva vale mais que 100 aulas.** 🔥
+> **Infra real > teoria.**  
+> Deploy fala mais alto que tutorial. 🔥
 
 ---
 
-## 💫 About Me — Your DevOps/Backend Guide
+## 💫 About Me
 
-- Brasileiro 🇧🇷 | Belém – PA  
-- ADS — formação em andamento  
-- Apaixonado por cloud, automação e arquitetura backend  
-- Foco em deploy real, containers, monitoramento e boas práticas  
-- Vivência em **FastAPI + PostgreSQL + Docker + AWS EC2**
+- 🇧🇷 Belém - Pará  
+- Estudante de **ADS**  
+- Foco em **Cloud • DevOps • Backend Python/FastAPI**  
+- Deploy em EC2 com Docker, PostgreSQL, Nginx e JWT  
+- Objetivo: **DevOps/Cloud Engineer em produção com automação full-stack**
+
+---
+
+## 🧠 What I Do
+
+### 🌩 Cloud & DevOps
+- AWS EC2 Deploy
+- Docker & Compose
+- PostgreSQL persistente
+- Segurança • SG • Permissões
+- Próximos passos: CI/CD • Observability • Kubernetes
+
+### 🧩 Backend Development
+- FastAPI • CRUD • Auth JWT • Swagger
+- Microsserviços REST
+
+### 🔐 Infrastructure & Security
+- Hardening básico
+- Logs & auditoria
 
 ---
 
 ## ⚡ Tech Stack
 
 ### Cloud & Platforms
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ### Backend & Languages
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ### Containers & Orchestration
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Containers-FF6F61?style=for-the-badge&logo=appveyor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Containers-FF6F61?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### Systems & Infra
-<p align="left">
+### System & Automation
+<p>
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-blue?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-| Projeto | Descrição | Status |
-|---|---|---|
-| **AmazonTech DevLab** | FastAPI + Docker + PostgreSQL + Deploy AWS EC2 | 🟢 Online |
-| **Sentinel-21 (conceito)** | Firewall cognitivo para IA | 🧪 Experimental |
-| **Site AmazonRoots** | Landing Page pessoal | 📝 Em construção |
+| Projeto | Descrição | Stack | Status |
+|---|---|---|---|
+| **AmazonTech DevLab** | Backend + Docker + PostgreSQL com deploy em AWS EC2 | FastAPI • Docker • PostgreSQL • AWS | 🟢 Online |
+| **AmazonRoots Website (H.P. Lovecraft)** | Site literário dark inspirado em Lovecraft | **JavaScript • HTML • CSS** | 🟣 Publicado |
+| **Sentinel-21** | Firewall cognitivo IA | Conceito Arquitetural | 🧪 Em estudo |
+
+🔗 Acesse: https://amazonroots.github.io
 
 ---
 
@@ -76,9 +97,10 @@ Infra viva vale mais que 100 aulas.** 🔥
 
 ---
 
-## 💝 Support & Contact
+## 📫 Contact
 
-📩 rafael.amazontech@gmail.com  
-Se curtiu o projeto, acompanha que vem coisa grande por aí.
+📩 **rafael.amazontech@gmail.com**
+
+> _"Build. Break. Fix. Deploy. Repeat."_ ⚙️🔥
 
 ---
