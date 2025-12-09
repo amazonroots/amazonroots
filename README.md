@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="Imagem 09-12-2025 às 18.31.jpeg" width="270px" style="border-radius:10px;">
-</p>
 
 <h1 align="center">☁️ Rafael Rodrigues</h1>
 <h3 align="center">Cloud • Backend • DevOps • AWS</h3>
