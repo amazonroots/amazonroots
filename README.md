@@ -90,7 +90,16 @@ Mantenho o **AmazonTech DevLab**, meu laboratório para projetos práticos na AW
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amazonroots&show_icons=true&theme=dark)
+<div align="center">
+
+<a href="https://github.com/amazonroots">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amazonroots&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/amazonroots">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amazonroots&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 ---
 
 ## 📫 Contact
