@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="BANNER_AQUI" width="900"/>
+  <img src="f75aec123c00568245b57470e61ebb0b9688871eecf1a29893c915c423a8975e.jpeg" width="900"/>
 </p>
 
 <h1 align="center">🚀 Welcome to the Home of Cloud & DevOps Resources</h1>
