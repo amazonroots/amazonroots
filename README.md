@@ -1,3 +1,4 @@
+
 <!-- Banner -->
 <p align="center">
   <img src="f75aec123c00568245b57470e61ebb0b9688871eecf1a29893c915c423a8975e.jpeg" width="900"/>
@@ -11,9 +12,9 @@
 ---
 
 ### Hey there! 👋  
-Sou **Rafael Rodrigues**, Cloud & DevOps/Backend Developer.  
-Crio ambientes de deploy real, infra automatizada e APIs backend.  
-Mantenho o **AmazonTech DevLab**, meu laboratório onde treino Cloud na prática.
+Sou **Rafael Rodrigues**, Cloud & DevOps / Backend Developer.  
+Crio ambientes de deploy real, infra automatizada e APIs robustas.  
+Sou o criador do **AmazonTech DevLab**, onde desenvolvo e aprimoro soluções cloud de verdade — nada de laboratório fake.
 
 > **Infra viva vale mais que 100 tutoriais.**  
 > Break → Fix → Deploy → Repeat. ⚙🔥
@@ -25,27 +26,34 @@ Mantenho o **AmazonTech DevLab**, meu laboratório onde treino Cloud na prática
 - 🇧🇷 Belém - Pará  
 - Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 - Foco em **Cloud • DevOps • Backend com Python/FastAPI**  
-- Deploy em AWS EC2 com Docker, PostgreSQL, Nginx e JWT  
-- Objetivo: **DevOps/Cloud Engineer com automação full-stack**
+- Deploy completo em AWS EC2 com Docker, PostgreSQL, Nginx e JWT  
+- **Objetivo:** atuar como DevOps/Cloud Engineer com automação full-stack  
+- CI/CD funcionando via GitHub Actions → Appleboy → EC2  
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/rafael-rodrigues-916258399
 
 ---
 
 ## 🧠 What I Do
 
-### 🌩 Cloud & DevOps
-- Deploy completo em EC2 Linux
-- Docker & Docker Compose
-- Banco persistente com PostgreSQL
-- Segurança: SG, portas, permissões e auditoria
-- **Próximas etapas:** CI/CD • Observability • Kubernetes • Terraform
+### 🌩 Cloud & DevOps  
+- Deploy completo em EC2 Linux  
+- Containers com Docker & Docker Compose  
+- Banco persistente com PostgreSQL em volume real  
+- Segurança: SG, portas, permissões, limites e auditoria  
+- Proxy reverso com Nginx (porta 80 → aplicação)  
+- **Pipeline CI/CD completo já implantado**  
+- Automação contínua  
 
-### 🧩 Backend Development
-- FastAPI • CRUD • Auth JWT • Swagger UI
-- APIs REST estruturadas e escaláveis
+### 🧩 Backend Development  
+- FastAPI • CRUD • Auth JWT • Documentação Swagger  
+- Arquitetura limpa e rotas estruturadas  
+- APIs escaláveis voltadas para produção  
 
-### 🔐 Infrastructure & Security
-- Hardening básico
-- Logs & Auditoria de requests
+### 🔐 Infrastructure & Security  
+- Hardening básico de servidor  
+- Logs e auditoria de requests sensíveis  
+- Permissões e boas práticas SSH (chave RSA, chmod 600 etc.)
 
 ---
 
@@ -65,7 +73,6 @@ Mantenho o **AmazonTech DevLab**, meu laboratório onde treino Cloud na prática
 ### Containers & Orchestration
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Containers-FF6F61?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ### System & Automation
@@ -80,9 +87,9 @@ Mantenho o **AmazonTech DevLab**, meu laboratório onde treino Cloud na prática
 
 | Projeto | Descrição | Stack | Status |
 |---|---|---|---|
-| **AmazonTech DevLab** <br>🔗 [Repositório](https://github.com/amazonroots/amazontech-devlab) <br>🔗 [Swagger API Docs](http://100.26.73.245:8005/docs) | Laboratório real em produção na AWS. Backend FastAPI com autenticação JWT, auditoria, Docker + PostgreSQL e deploy 24/7 em EC2. Base para futuro CI/CD, Observability, Terraform/K8s e microserviços. | **FastAPI • Docker • PostgreSQL • AWS EC2 • JWT** | 🟢 Online | <br>🔗 [Swagger API Docs](http://3.235.187.206:8005/docs) | Laboratório real em produção na AWS. Backend FastAPI com autenticação JWT, auditoria, Docker + PostgreSQL e deploy 24/7 em EC2. Base para futuro CI/CD, Observability, Terraform/K8s e microserviços. | **FastAPI • Docker • PostgreSQL • AWS EC2 • JWT** | 🟢 Online |
-| **AmazonRoots Website (H.P. Lovecraft)** <br>🔗 [Visitar Site](https://amazonroots.github.io) <br>🔗 [Repositório](https://github.com/amazonroots/amazonroots.github.io) | Site literário dark inspirado em H.P. Lovecraft & *Re-Animator*. Conteúdo sobre horror cósmico, obras do autor e estética sombria. Web estática escrita em JS/HTML/CSS. | **JavaScript • HTML • CSS • Dark UI** | 🟣 Publicado |
-| **Sentinel-21** <br>🔗 Projeto Conceitual | Conceito de um **Firewall Cognitivo para IA**, criando camada de segurança entre usuário ↔ modelo. Futuro: detecção de prompt malicioso, reescrita segura e log de auditoria. | **Research • Cyber/AI Security • Architecture** | 🧪 Em estudo |
+| **AmazonTech DevLab** <br>🔗 [Repositório](https://github.com/amazonroots/amazontech-devlab) <br>🔗 [Swagger API Docs](http://100.26.73.245:8005/docs) | Infra real em produção na AWS. Backend FastAPI com JWT Auth, auditoria, Docker + PostgreSQL, Nginx e CI/CD. Base para Observability, Terraform, Kubernetes e automações Cloud/AI. | **FastAPI • Docker • PostgreSQL • AWS EC2 • JWT • CI/CD** | 🟢 Online |
+| **AmazonRoots Website (H.P. Lovecraft)** <br>🔗 [Visitar Site](https://amazonroots.github.io) <br>🔗 [Repositório](https://github.com/amazonroots/amazonroots.github.io) | Site literário dark inspirado no horror cósmico de H.P. Lovecraft. Construído em HTML/CSS/JS com estética sombria. | **JavaScript • HTML • CSS • Dark UI** | 🟣 Publicado |
+| **Sentinel-21** | Conceito de um **Firewall Cognitivo para IA**, criando uma camada de segurança entre humano ↔ modelo. Futuro: detecção de prompts maliciosos, mitigação, reescrita segura e auditoria inteligente. | **Research • AI Safety • Cybersecurity** | 🧪 Em estudo |
 
 ---
 
@@ -90,8 +97,8 @@ Mantenho o **AmazonTech DevLab**, meu laboratório onde treino Cloud na prática
 
 - [x] Deploy FastAPI + Docker + PostgreSQL na AWS  
 - [x] Autenticação JWT + Auditoria  
-- [ ] CI/CD Pipeline  
-- [ ] Observability (Grafana/Prometheus)  
+- [x] CI/CD Pipeline completo usando GitHub Actions  
+- [ ] Observability (Grafana/Prometheus/Loki)  
 - [ ] Terraform • Kubernetes  
 - [ ] Módulos de automação IA/Cloud  
 
@@ -101,16 +108,15 @@ Mantenho o **AmazonTech DevLab**, meu laboratório onde treino Cloud na prática
 
 | Acesso |
 |---|
-| 🔥 **AmazonTech DevLab** — Backend em produção |
+| 🔥 **AmazonTech DevLab** — Backend real em produção |
 | 🌍 **AmazonRoots Website** — Lovecraft Dark Project |
-| 🧪 **Sentinel-21** — Firewall de IA (conceito) |
+| 🧪 **Sentinel-21** — Firewall Cognitivo (conceito) |
 
 ---
 
 ## 📫 Contact
 
-📩 **rafael.amazontech@gmail.com**
+📩 **rafael.amazontech@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/rafael-rodrigues-916258399  
 
 > _"Build. Break. Fix. Deploy. Repeat."_ ⚙🔥
-
----
