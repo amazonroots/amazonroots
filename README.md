@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="DC9F2487-AFEE-46D6-82C3-A51E4754ECDB.png" width="900" alt="Rafael Rodrigues - Platform Engineer | Cloud | DevOps"/>
+  <img src="./assets/banner-platform-devops.png" width="900" alt="Rafael Rodrigues - Platform Engineer | Cloud | DevOps"/>
 </p>
 
 <h1 align="center">Rafael Rodrigues</h1>
