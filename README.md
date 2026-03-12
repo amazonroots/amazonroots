@@ -15,13 +15,13 @@
 
 ## About Me
 
-Sou **Rafael Rodrigues**, profissional com foco em **Platform Engineering, Cloud, DevOps e Observabilidade**.
+I am **Rafael Rodrigues**, a professional focused on **Platform Engineering, Cloud, DevOps, and Observability**.
 
-Construo projetos com estrutura de ambiente real, unindo deploy em cloud, containers, integração contínua, monitoramento de serviços e backend funcional para operação de aplicações.
+I build projects with real-world structure, combining cloud deployment, containers, continuous integration, service monitoring, and backend systems that support application operations.
 
-Meu trabalho está voltado para soluções técnicas que demonstrem capacidade prática de automação, visibilidade, confiabilidade e evolução de serviços.
+My work is centered on practical technical solutions that demonstrate automation, visibility, reliability, and service evolution.
 
-> **Infra viva vale mais que 100 tutoriais.**  
+> **Real infrastructure matters more than tutorials.**  
 > **Build → Break → Fix → Deploy → Repeat.**
 
 ---
@@ -29,12 +29,12 @@ Meu trabalho está voltado para soluções técnicas que demonstrem capacidade p
 ## Core Strengths
 
 - Platform Engineering mindset
-- Cloud & DevOps workflow
+- Cloud and DevOps workflow
 - Docker-based environments
 - CI/CD automation with GitHub Actions
 - FastAPI-based backend systems
 - Monitoring and service visibility
-- Linux-based deployment and operation
+- Linux-based deployment and operations
 
 ---
 
@@ -54,12 +54,11 @@ Meu trabalho está voltado para soluções técnicas que demonstrem capacidade p
 
 ## Featured Projects
 
-| Projeto | Descrição | Stack | Status |
+| Project | Description | Stack | Status |
 |---|---|---|---|
-| **API Sentinel Web** <br>🔗 [Repositório](https://github.com/amazonroots/api-sentinel-web) | Plataforma web leve de monitoramento de APIs com dashboard, cadastro de endpoints, checagens reais, testes automatizados e CI com GitHub Actions. | **FastAPI • SQLModel • SQLite • Jinja2 • Docker • Pytest • GitHub Actions** | 🟢 Ativo |
-| **AmazonTech DevLab** <br>🔗 [Repositório](https://github.com/amazonroots/amazontech-devlab) <br>🔗 [Swagger API Docs](http://100.26.73.245:8005/docs) | Projeto prático voltado para deploy real, backend, automação e operação em cloud. | **FastAPI • Docker • PostgreSQL • AWS EC2 • JWT • CI/CD** | 🟢 Online |
-| **AmazonRoots Website** <br>🔗 [Visitar Site](https://amazonroots.github.io) <br>🔗 [Repositório](https://github.com/amazonroots/amazonroots.github.io) | Site autoral com identidade visual dark. | **HTML • CSS • JavaScript** | 🟣 Publicado |
-| **Sentinel-21** | Conceito de segurança para ecossistemas de IA. | **Research • AI Safety • Security Concepts** | 🧪 Em estudo |
+| **API Sentinel Web** <br>🔗 [Repository](https://github.com/amazonroots/api-sentinel-web) | Lightweight API monitoring platform with dashboard, endpoint registration, real checks, automated tests, and CI with GitHub Actions. Built with a strong focus on observability, operations, and service visibility. | **FastAPI • SQLModel • SQLite • Jinja2 • Docker • Pytest • GitHub Actions** | 🟢 Active |
+| **AmazonTech DevLab** <br>🔗 [Repository](https://github.com/amazonroots/amazontech-devlab) <br>🔗 [Swagger API Docs](http://100.26.73.245:8005/docs) | Practical project focused on real deployment, backend systems, automation, and cloud operations. | **FastAPI • Docker • PostgreSQL • AWS EC2 • JWT • CI/CD** | 🟢 Online |
+| **AmazonRoots Website** <br>🔗 [Live Site](https://amazonroots.github.io) <br>🔗 [Repository](https://github.com/amazonroots/amazonroots.github.io) | Personal web project with a custom dark visual identity. | **HTML • CSS • JavaScript** | 🟣 Published |
 
 ---
 
